@@ -12,6 +12,7 @@ Eat the food, grow longer, and don't crash into the walls or yourself!
 ✔ Classic snake movement  
 ✔ Random food spawning  
 ✔ Score tracking  
+✔ Saves highscore  
 ✔ Smooth animations  
 
 ## Installation
