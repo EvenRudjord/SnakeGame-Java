@@ -15,7 +15,7 @@ Eat the food, grow longer, and don't crash into the walls or yourself!
 ✔ Smooth animations  
 
 ## Installation
-### 1. Clone the Repository
+### Clone the Repository
 ```sh
 git clone https://github.com/your-username/Snake-Game.git
 cd Snake-Game
